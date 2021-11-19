@@ -3,6 +3,6 @@
 The output of the 3D Scanner app gave 136000 vertices -- perhaps too many. 
 I used Vectary to make a simplified/decimated/low-poly version of the model. 
 
-# See Also
+# Links
 [https://lvonasek.github.io/](https://lvonasek.github.io/)  
 [https://www.vectary.com/](https://www.vectary.com/)  
